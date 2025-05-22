@@ -171,7 +171,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Copyright
 
-© 2024 SHASHANK SHARMA. All rights reserved.
+© 2025 SHASHANK SHARMA. All rights reserved.
 
 ## Acknowledgments
 
